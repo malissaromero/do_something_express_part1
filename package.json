@@ -1,0 +1,24 @@
+{
+  "name": "do_something_express_part1",
+  "version": "1.0.0",
+  "description": "This week, we'll be working on a to-do based application called do something!",
+  "main": "application.js",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malissaromero/do_something_express_part1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malissaromero/do_something_express_part1/issues"
+  },
+  "homepage": "https://github.com/malissaromero/do_something_express_part1#readme"
+}
